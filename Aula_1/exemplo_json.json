@@ -1,0 +1,21 @@
+{
+  "empresa": "Tech Solutions Inc.",
+  "fundacao": 2010,
+  "ativa": true,
+  "departamentos": [
+    {
+      "nome": "Desenvolvimento",
+      "funcionarios": 15,
+      "gerente": null
+    },
+    {
+      "nome": "Marketing",
+      "funcionarios": 8,
+      "gerente": {
+        "nome": "Maria Souza",
+        "experiencia": 5.5
+      }
+    }
+  ],
+  "tecnologias": ["JavaScript", "Python", "Java"]
+}
