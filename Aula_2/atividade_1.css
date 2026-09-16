@@ -1,0 +1,28 @@
+form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+  padding: 16px 8px;
+  width: fit-content;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  width: fit-content;
+}
+
+input, textarea {
+  width: 200px;
+}
+
+button {
+  width: 150px;
+  height: 35px;
+  margin-top: 8px;
+  background: white;
+  border: 1px solid;
+  border-radius: 4px;
+  cursor: pointer;
+}
